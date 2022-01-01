@@ -1,1 +1,1 @@
-# e-commerce-sales-prediction
+# E-commerce sales prediction
